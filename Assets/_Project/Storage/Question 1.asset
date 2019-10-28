@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c48e51c8d20906d4181faf64ab27168d, type: 3}
+  m_Name: Question 1
+  m_EditorClassIdentifier: 
+  question: "Esta afirma\xE7\xE3o sobre o que \xE9 Predicado, esta correta ?\nO predicado
+    \xE9 a parte da ora\xE7\xE3o que cont\xE9m o verbo e que traz informa\xE7\xF5es
+    sobre o sujeito, podendo ser classificado como: verbal, nominal ou verbo-nominal."
+  answers:
+  - answer: Sim
+    correct: 1
+    colorBackground: {r: 0.13884082, g: 0.706333, b: 0.78676474, a: 1}
+  - answer: "N\xE3o"
+    correct: 0
+    colorBackground: {r: 0.8014706, g: 0.08250431, b: 0.6328854, a: 1}
+  - answer: "N\xE3o"
+    correct: 0
+    colorBackground: {r: 0.8014706, g: 0.08250431, b: 0.6328854, a: 1}
+  - answer: "N\xE3o"
+    correct: 0
+    colorBackground: {r: 0.8014706, g: 0.08250431, b: 0.6328854, a: 1}
+  - answer: "N\xE3o"
+    correct: 0
+    colorBackground: {r: 0.8014706, g: 0.08250431, b: 0.6328854, a: 1}

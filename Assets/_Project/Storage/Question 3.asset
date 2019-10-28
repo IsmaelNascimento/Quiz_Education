@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c48e51c8d20906d4181faf64ab27168d, type: 3}
+  m_Name: Question 3
+  m_EditorClassIdentifier: 
+  question: "Considere P(x) como o predicado \u201Ca palavra\r\nx cont\xE9m a letra
+    a\u201D. Quais s\xE3o os valores\r\nverdade das proposi\xE7\xF5es abaixo?"
+  answers:
+  - answer: P(orange)
+    correct: 1
+    colorBackground: {r: 0.8000001, g: 0.08235294, b: 0.6313726, a: 1}
+  - answer: P(lemon)
+    correct: 0
+    colorBackground: {r: 0.4047997, g: 0.082504354, b: 0.8014706, a: 1}
+  - answer: P(true)
+    correct: 0
+    colorBackground: {r: 0.8014706, g: 0.082504354, b: 0.33538213, a: 1}
+  - answer: P(false)
+    correct: 1
+    colorBackground: {r: 0.64280206, g: 0.082504354, b: 0.8014706, a: 1}

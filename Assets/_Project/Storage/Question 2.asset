@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c48e51c8d20906d4181faf64ab27168d, type: 3}
+  m_Name: Question 2
+  m_EditorClassIdentifier: 
+  question: "Todo PLATZ que n\xE3o \xE9 PLUTZ \xE9 tamb\xE9m PLETZ. Alguns PLATZ que
+    s\xE3o PLETZ tamb\xE9m s\xE3o PLITZ. A partir dessas afirma\xE7\xF5es, pode-se
+    concluir que"
+  answers:
+  - answer: "Alguns PLITZ s\xE3o PLETZ e PLATZ."
+    correct: 1
+    colorBackground: {r: 0.8000001, g: 0.08235294, b: 0.6313726, a: 1}
+  - answer: "Existe PLATZ que n\xE3o \xE9 PLUTZ nem \xE9 PLETZ"
+    correct: 0
+    colorBackground: {r: 0.4047997, g: 0.082504354, b: 0.8014706, a: 1}
+  - answer: "N\xE3o existe PLUTZ que \xE9 apenas PLUTZ."
+    correct: 0
+    colorBackground: {r: 0.8014706, g: 0.082504354, b: 0.33538213, a: 1}
+  - answer: "Todo PLITZ \xE9 PLETZ."
+    correct: 0
+    colorBackground: {r: 0.64280206, g: 0.082504354, b: 0.8014706, a: 1}
+  - answer: "Existe PLITZ que \xE9 apenas PLITZ."
+    correct: 0
+    colorBackground: {r: 0.875, g: 0.30238968, b: 0.7407327, a: 1}
